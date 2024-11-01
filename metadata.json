@@ -1,15 +1,15 @@
 {
-  "image": "",
+  "image": null,
   "attributes": [
     {
-      "trait_type": "",
-      "value": ""
+      "trait_type": null,
+      "value": null
     },
     {
-      "trait_type": "",
-      "value": ""
+      "trait_type": null,
+      "value": null
     }
   ],
-  "description": "",
-  "name": ""
+  "description": null,
+  "name": null
 }
