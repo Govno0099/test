@@ -1,1 +1,15 @@
-
+{
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Pix.gif?20100705125049",
+  "attributes": [
+    {
+      "trait_type": "Official",
+      "value": "No"
+    },
+    {
+      "trait_type": "Verified",
+      "value": "True"
+    }
+  ],
+  "description": "You",
+  "name": "hi"
+}
